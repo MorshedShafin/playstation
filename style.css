@@ -191,6 +191,7 @@ button:hover {
 
     .menu-icon {
         display: block;
+        color: #fff;
     }
 
     #menuList {
